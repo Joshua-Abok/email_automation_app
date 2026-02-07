@@ -7,12 +7,6 @@
 * **Libraries:** `python-dotenv`
 
 ## Getting started 
-### Prerequisites 
-1. install necessary packages
-bash 
-```
-pip install -r requirements.txt
-```
 
 ### Installation 
 1. get to clone the repository
@@ -27,6 +21,11 @@ cd email_automation_app      # changing directory to the folder
 python -m venv .venv
 .venv\Scripts\activavate    # for Windows 
 # source .venv/bin/activate   # Linux or macos
+```
+3. install necessary packages
+bash 
+```
+pip install -r requirements.txt
 ```
 
 ### Configuration 
